@@ -99,7 +99,7 @@ DRIVER_DB, drivers_raw, POLICY_KB_ENTRIES, SUPPORT_TICKETS_BY_DRIVER = load_data
 # ── LLM (cached) ───────────────────────────────────────────────────────────────
 @st.cache_resource
 def load_agents():
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
+    llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash", temperature=0)
 
     # ── Tools: Agent 1 ─────────────────────────────────────────────────────────
     @tool
