@@ -1,0 +1,67 @@
+[
+  {
+    "driver_id": "D-1001",
+    "turns": [
+      {
+        "role": "driver",
+        "text": "Hi, what's still missing from my application?"
+      },
+      {
+        "role": "agent",
+        "text": "Hi Asha! You're missing your vehicle registration. Everything else (license, insurance) looks good \u2014 please upload it in the app to continue."
+      }
+    ]
+  },
+  {
+    "driver_id": "D-1002",
+    "turns": [
+      {
+        "role": "driver",
+        "text": "How long does the background check usually take?"
+      },
+      {
+        "role": "agent",
+        "text": "Background checks typically take 2-3 business days. Yours is currently in progress \u2014 we'll notify you as soon as it clears."
+      }
+    ]
+  },
+  {
+    "driver_id": "D-1003",
+    "turns": [
+      {
+        "role": "driver",
+        "text": "Can you schedule my vehicle inspection for next Tuesday?"
+      },
+      {
+        "role": "agent",
+        "text": "I'm sorry, but your background check was flagged and needs a human review before we can schedule an inspection. I've created ticket TCK-48213 \u2014 a specialist will reach out within 24 hours."
+      }
+    ]
+  },
+  {
+    "driver_id": "D-1004",
+    "turns": [
+      {
+        "role": "driver",
+        "text": "My insurance document keeps getting rejected, why?"
+      },
+      {
+        "role": "agent",
+        "text": "It looks like the uploaded copy was rejected for being blurry. Please re-upload a clear photo showing your name and policy dates clearly."
+      }
+    ]
+  },
+  {
+    "driver_id": "D-1005",
+    "turns": [
+      {
+        "role": "driver",
+        "text": "What's the minimum vehicle year I can drive?"
+      },
+      {
+        "role": "agent",
+        "text": "Vehicles must be model year 2012 or newer in most cities. Some cities require 2014+ for premium tiers \u2014 check your city page in the app to confirm."
+      }
+    ]
+  }
+]

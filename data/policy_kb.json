@@ -1,0 +1,52 @@
+[
+  {
+    "topic": "vehicle_eligibility",
+    "question": "What are the vehicle age requirements?",
+    "answer": "Vehicles must be model year 2012 or newer in most cities (some cities require 2014+ for luxury/XL tiers). Check your city's specific page in the Driver app."
+  },
+  {
+    "topic": "documents_required",
+    "question": "What documents do I need to upload?",
+    "answer": "A valid driver's license, proof of insurance with your name on the policy, and current vehicle registration."
+  },
+  {
+    "topic": "background_check_timing",
+    "question": "How long does the background check take?",
+    "answer": "Most background checks complete within 2-3 business days. Some cases take longer if additional records need review."
+  },
+  {
+    "topic": "background_check_flagged",
+    "question": "What happens if my background check is flagged?",
+    "answer": "A flagged check is reviewed by a human specialist. You'll be contacted within 24-48 hours with next steps or an appeal process."
+  },
+  {
+    "topic": "inspection_process",
+    "question": "How do I get my vehicle inspected?",
+    "answer": "Once your documents are approved and background check is cleared, you can book a free vehicle inspection at any Lyft Hub."
+  },
+  {
+    "topic": "inspection_reschedule",
+    "question": "Can I reschedule my inspection?",
+    "answer": "Yes, inspections can be rescheduled up to 2 hours before your slot directly in the Driver app or by asking the onboarding assistant."
+  },
+  {
+    "topic": "document_rejection",
+    "question": "Why was my document rejected?",
+    "answer": "Common reasons include blurry photos, expired dates, or a name mismatch with your account. Re-upload a clear, current copy."
+  },
+  {
+    "topic": "earnings",
+    "question": "How can I see my potential earnings?",
+    "answer": "Estimated per-ride earnings are shown in the Driver app before you accept a ride, along with weekly summaries in your Earnings tab."
+  },
+  {
+    "topic": "insurance_requirements",
+    "question": "Does Lyft provide insurance during onboarding?",
+    "answer": "Lyft provides contingent liability coverage from the moment you go online in the app, but you must maintain your own personal auto insurance policy."
+  },
+  {
+    "topic": "support_contact",
+    "question": "How do I reach a human if my issue isn't resolved?",
+    "answer": "If the onboarding assistant can't resolve your issue, it will automatically create a support ticket and a specialist will follow up within 24 hours."
+  }
+]

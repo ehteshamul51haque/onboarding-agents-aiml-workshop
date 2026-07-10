@@ -1,0 +1,17 @@
+ticket_id,driver_id,issue_type,description,opened_date,resolved_date,resolution
+TCK-10000,D-1001,Payout question,Uma Kim reported: payout question.,2026-06-20,2026-07-10,Resolved by human specialist
+TCK-10001,D-1003,Inspection reschedule request,David Nunes reported: inspection reschedule request.,2026-06-20,2026-07-09,Resolved by human specialist
+TCK-10002,D-1006,Document rejected twice,Hassan Ahmed reported: document rejected twice.,2026-06-29,2026-07-09,Resolved by human specialist
+TCK-10003,D-1011,Inspection reschedule request,Brandon Singh reported: inspection reschedule request.,2026-06-30,2026-07-10,Resolved by human specialist
+TCK-10004,D-1012,Payout question,Chloe Khan reported: payout question.,2026-06-20,2026-07-09,Pending review
+TCK-10005,D-1013,Document rejected twice,Diego Reyes reported: document rejected twice.,2026-06-29,2026-07-10,Resolved by human specialist
+TCK-10006,D-1014,Background check delay question,Hassan Khan reported: background check delay question.,2026-07-01,2026-07-09,Resolved by human specialist
+TCK-10007,D-1016,Background check delay question,Xavier Fischer reported: background check delay question.,2026-07-07,2026-07-09,Pending review
+TCK-10008,D-1021,Flagged background check appeal,Chloe Khan reported: flagged background check appeal.,2026-06-29,2026-07-10,Resolved by human specialist
+TCK-10009,D-1022,Inspection reschedule request,Elena Singh reported: inspection reschedule request.,2026-07-07,2026-07-10,Resolved by human specialist
+TCK-10010,D-1024,Flagged background check appeal,David Petrov reported: flagged background check appeal.,2026-07-01,2026-07-09,Resolved by human specialist
+TCK-10011,D-1025,Flagged background check appeal,Diego Fischer reported: flagged background check appeal.,2026-07-05,2026-07-10,Pending review
+TCK-10012,D-1026,Payout question,Sofia Reyes reported: payout question.,2026-06-26,2026-07-10,Pending review
+TCK-10013,D-1027,Flagged background check appeal,Hassan Ahmed reported: flagged background check appeal.,2026-07-06,2026-07-09,Pending review
+TCK-10014,D-1028,Document rejected twice,Brandon Silva reported: document rejected twice.,2026-07-01,2026-07-09,Resolved by human specialist
+TCK-10015,D-1034,Background check delay question,Grace Kowalski reported: background check delay question.,2026-07-05,2026-07-10,Resolved by human specialist
