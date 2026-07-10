@@ -220,7 +220,7 @@ def check_vehicle_eligibility(make: str, model: str, year: int, city: str) -> st
 
 @st.cache_resource
 def build_system():
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
+    llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash", temperature=0)
 
     # ── Three specialist agents ────────────────────────────────────────────────
     onboarding_agent = create_react_agent(
@@ -262,7 +262,7 @@ def build_system():
     # The supervisor is an LLM that reads the user message and the outputs
     # from subagents, then decides what to do next.
 
-    supervisor_llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
+    supervisor_llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash", temperature=0)
 
     SUPERVISOR_PROMPT = """You are the Lyft Onboarding Supervisor. You coordinate three specialist agents:
 
