@@ -1,0 +1,4 @@
+langchain-google-genai==2.0.10
+langgraph==0.2.73
+langchain-core==0.3.28
+streamlit==1.41.1
